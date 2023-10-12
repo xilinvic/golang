@@ -1,6 +1,6 @@
 * [封面](default.md)
 * [第一篇：Golang修养必经之路](第一篇：Golang修养必经之路.md)
-    * [1、最常用的调试 golang 的 bug 以及性能问题的实践方法？](1、最常用的调试golang的bug以及性能问题的实践方法？.md)
+    * [1、最常 golang 的 bug 以及性能问题的实践方法？](1、最常用的调试golang的bug以及性能问题的实践方法？.md)
     * [2、Golang的协程调度器原理及GMP设计思想？](2、Golang的协程调度器原理及GMP设计思想？.md)
     * [3、Golang中逃逸现象, 变量“何时栈?何时堆?”](3、Golang中逃逸现象,变量“何时栈何时堆”.md)
     * [4、Golang中make与new有何区别？](4、Golang中make与new有何区别？.md)
@@ -14,7 +14,6 @@
     * [3、Map](3、Map.md)
     * [4、interface](4、interface.md)
     * [5、channel](5、channel.md)
-    * [6、WaitGroup](6、WaitGroup.md)
 * [第三篇、Golang编程设计与通用之路](第三篇、Golang编程设计与通用之路.md)
     * [1、流？I/O操作？阻塞？epoll?](1、流？I-O操作？阻塞？epoll.md)
     * [2、分布式从ACID、CAP、BASE的理论推进](2、分布式从ACID、CAP、BASE的理论推进.md)
@@ -23,3 +22,6 @@
     * [5、单点Server的N种并发模型汇总](5、单点Server的N种并发模型汇总.md)
     * [6、TCP中TIME_WAIT状态意义详解](6、TCP中TIME_WAIT状态意义详解.md)
     * [7、动态保活Worker工作池设计](7、一种实时动态保活的Worker工作池设计机制.md)
+* [第四篇、 Golang auto test]
+    * 1. tools
+    * 2. services
